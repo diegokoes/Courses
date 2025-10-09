@@ -2,13 +2,11 @@
 >
 > Course by: **Maximilian Schwarzmüller**
 
-## Index of contents
-
-### Summary
+## Summary
 
 | Section | Lectures | Duration |
 | :-- | --: | --: |
-| [1. Getting Started](#section-1-getting-started-detailed) | 8 | 32min |
+| 1. Getting Started| 8 | 32min |
 | 2. Angular Essentials - Components, Templates, Services & More | 55 | 4hr 51min |
 | 3. Angular Essentials - Working with Modules | 10 | 40min |
 | 4. Angular Essentials - Time To Practice | 17 | 1hr 37min |
