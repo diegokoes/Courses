@@ -1,6 +1,6 @@
 # Courses
 
-> ⚠️ This repository does not include all exercises, and it does not contain notes on those subjects. All notes are kept in my []
+> ⚠️ This repository does not include all exercises, and it does not contain notes on those subjects. All notes are kept in my
 
 <!-- markdownlint-disable MD033 -->
 <table>
@@ -12,9 +12,8 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Coursera -->
     <tr>
-      <th colspan="3" align="left">Coursera</th>
+      <td colspan="3" align="left"><strong>Coursera</strong></td>
     </tr>
     <tr>
       <td>
@@ -26,9 +25,8 @@
       </td>
     </tr>
 
-    <!-- EDX -->
     <tr>
-      <th colspan="3" align="left">EDX</th>
+      <td colspan="3" align="left"><strong>EDX</strong></td>
     </tr>
     <tr>
       <td>
@@ -40,9 +38,8 @@
       </td>
     </tr>
 
-    <!-- OpenWebinars -->
     <tr>
-      <th colspan="3" align="left">OpenWebinars</th>
+      <td colspan="3" align="left"><strong>OpenWebinars</strong></td>
     </tr>
     <tr>
       <td>
@@ -64,9 +61,8 @@
       </td>
     </tr>
 
-    <!-- Udemy -->
     <tr>
-      <th colspan="3" align="left">Udemy</th>
+      <td colspan="3" align="left"><strong>Udemy</strong></td>
     </tr>
     <tr>
       <td>
@@ -79,6 +75,4 @@
       </td>
     </tr>
   </tbody>
-
 </table>
-<!-- markdownlint-enable MD033 -->
