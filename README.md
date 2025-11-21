@@ -1,6 +1,6 @@
 # Courses
 
-> ⚠️ This repository does not include all exercises, and it does not contain notes on those subjects. All notes are kept in my <strong><a href="https://github.com/diegokoes/obsidian_programming">obsidian notes</a></strong>
+> ⚠️ This repository does not include all exercises, and it does not contain notes on those subjects. All notes are kept in my <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian notes</a></strong>
 
 <!-- markdownlint-disable MD033 -->
 <table>
